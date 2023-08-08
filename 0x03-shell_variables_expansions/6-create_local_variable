@@ -1,0 +1,2 @@
+#!/bin/bash
+alias set_best='set_local_variable() { local BEST="School"; echo "Local variable BEST set to: \$BEST"; }; set_local_variable
