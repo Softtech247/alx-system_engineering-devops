@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Your input string to reverse" | rev
+rev
